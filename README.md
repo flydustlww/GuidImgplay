@@ -98,3 +98,4 @@ request.
 ## License
 
 MIT License. Please see [LICENSE](LICENSE) for license details.
+# GuidImgplay
